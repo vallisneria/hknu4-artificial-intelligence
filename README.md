@@ -1,4 +1,11 @@
 # 인공지능
+한경대학교 4학년
+
+## 강의목표
+
+
+## 교재
+![Hands-on-machine-learning-2nd](https://www.hanbit.co.kr/data/books/B7033438574_l.jpg)
 
 ## 주별강의내용
 | 주차 | 강의범위 및 내용 |
