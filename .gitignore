@@ -1,6 +1,9 @@
 .idea
 .vscode
 
+## virtual env
+venv
+
 ##
 *.zip
 *.pdf
