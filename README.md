@@ -19,7 +19,7 @@
 | 7주 | Support Vector Machines - Linear & Monlinear SVM Classification, SVM Regression[2] |
 | 8주 | Decision Trees - CART Training Algorithm, Regression |
 | 9주 | Ensemble Learning and Random Forests |
-| 10주 | Team Project 공지 - 공공데이터를 활용한 AI 기반의 공공서비스 개발 |
+| 10주 | Term Project 공지 - 공공데이터를 활용한 AI 기반의 공공서비스 개발 |
 | 11주 | Introduction to Artifical Neural Networks[1] - Perceptrons & MLP |
 | 12주 | Introduction to Artifical Neural Networks[2], [3] |
 | 13주 | Training and Deploying Tensorflow Models at Scale[1] - Docker, Training and Deploying Tensorflow Models at Scale[2] - Google Cloud AI Platform |
