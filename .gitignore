@@ -4,6 +4,9 @@
 ## virtual env
 venv
 
-##
+## 과제 제출용 파일
 *.zip
 *.pdf
+
+## keras 모델 저장
+*.h5
