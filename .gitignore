@@ -1,5 +1,7 @@
+# IDE
 .idea
 .vscode
+.vim
 
 ## virtual env
 venv
