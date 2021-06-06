@@ -1,0 +1,6 @@
+[submodule "hknu4-artificial-intelligence-hello-flask"]
+	path = hknu4-artificial-intelligence-hello-flask
+	url = https://github.com/vallisneria/hknu4-artificial-intelligence-hello-flask.git
+[submodule "hknu4-artifical-inteligence-diabetes"]
+	path = hknu4-artifical-inteligence-diabetes
+	url = https://github.com/vallisneria/hknu4-artifical-inteligence-diabetes.git
